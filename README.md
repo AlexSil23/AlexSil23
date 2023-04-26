@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Silvera</h1>
 <h3 align="center">I am a self-taught engineering student focused on learning backend programming, mainly in Java. I consider myself passionate about technology and always looking to learn new things to improve my skills.</h3>
 
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-silvera-952962123/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
