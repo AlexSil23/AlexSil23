@@ -1,7 +1,10 @@
 <h1 align="left">Hi 👋, I'm Alexander Silvera</h1>
 
-<h3 align="right">I am a self-taught engineering student focused on learning backend programming, mainly in Java.
-  I consider myself passionate about technology and always looking to learn new things to improve my skills.</h3>
+<h3 align="right">
+I am a self-taught engineering student focused on learning <br>
+backend programming, mainly in Java.<br>
+I consider myself passionate about technology and always <br>
+looking to learn new things to improve my skills.</h3>
 <h1 align="center"> </h1>
 
 <h3 align="left">Languages and Tools:</h3>
