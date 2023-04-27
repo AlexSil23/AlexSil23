@@ -14,7 +14,7 @@ looking to learn new things to improve my skills.</h3>
 <h1 align="center"> </h1>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-  <a href="https://www.linkedin.com/in/damian-sebastian-silvera-collazo-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-silvera-952962123/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alexander-silvera-952962123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-silvera-952962123/" height="30" width="40" /></a>
 </p>
 <!--
 **AlexSil23/AlexSil23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
