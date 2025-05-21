@@ -1,10 +1,25 @@
 <h1 align="left">Hi 👋, I'm Alexander Silvera</h1>
 
-<h3 align="right">
-I am a self-taught engineering student focused on learning <br>
-backend programming, mainly in Java.<br>
-I consider myself passionate about technology and always <br>
-looking to learn new things to improve my skills.</h3>
+I am a backend developer specialized in **Java**, with a background in **Computer Engineering** and solid experience in building efficient, scalable, and secure applications. My self-taught approach has allowed me to stay up to date with the latest tools and practices in the Java ecosystem.
+
+Key competencies:
+- **Object-Oriented Programming (OOP)**
+- GUI development with **Swing** and **JavaFX**
+- Database integration using **JDBC**
+- Testing and debugging with **JUnit**
+- Secure coding best practices
+
+I have built projects ranging from desktop applications to backend solutions with integrated databases.
+
+🎓 I hold a **Java Developer Certificate from Tokio School**, which formally certifies my knowledge and technical skills.
+
+I’m known for:
+- Commitment to continuous learning
+- Analytical problem-solving
+- Team collaboration and adaptability
+
+I’m ready to contribute to innovative projects that require **technical strength, initiative, and a passion for technology**.
+ove my skills.</h3>
 <h1 align="center"> </h1>
 
 <h3 align="left">Languages and Tools:</h3>
